@@ -1,8 +1,8 @@
 ---
 # git-workshop
 
-*Created by Chris Grandin, February 2014*
-
+*Created by Chris Grandin, February 2014, Modified ARK 17-Mar-14*
+                                                                               _
 git-workshop is a repository for learning how to use git version control.
 Also included are examples for using *Latex* and the R package *knitr* to apply version control to documents
 which are to be edited by more than one person, working collaboratively.
